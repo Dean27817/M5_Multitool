@@ -1,0 +1,50 @@
+body
+{
+    color:aliceblue;
+}
+h1
+{
+    color: white;
+    background-color: darkcyan;
+    text-align: center;
+}
+.buttons
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    cursor: pointer;
+}
+.buttonDeauth
+{
+    color: black;
+    background-color: red;
+    text-emphasis:bold;
+    height: 300px;
+    width: 50vh;
+}
+.buttonCrack
+{
+    color: black;
+    background-color: yellow;
+    text-emphasis:bold;
+    height: 300px;
+    width: 50vh;
+}
+.buttonLogin
+{
+    color: black;
+    background-color: greenyellow;
+    text-emphasis:bold;
+    height: 300px;
+    width: 50vh;
+}
+.buttonClone
+{
+    color: black;
+    background-color: orange;
+    text-emphasis:bold;
+    height: 300px;
+    width: 50vh;
+}
